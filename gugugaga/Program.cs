@@ -12,6 +12,7 @@ namespace gugugaga
         static void Main(string[] args)
         {
             num_15();
+            //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
         }
          
         static void num_1()
